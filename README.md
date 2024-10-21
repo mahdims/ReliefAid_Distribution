@@ -45,11 +45,11 @@ if __name__ == "__main__":
 If you use these datasets or the accompanying code in your research, please cite our paper as follows:
 
 ```
-@article{author2024,
-  title={Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution},
-  author={},
-  journal={},
-  year={2024}
+@article{mostajabdaveh2022branch,
+  title={A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution},
+  author={Mostajabdaveh, Mahdi and Salman, Sibel and Gutjahr, Walter},
+  journal={Available at SSRN 4236302},
+  year={2022}
 }
 ```
 
