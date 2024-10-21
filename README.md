@@ -41,16 +41,5 @@ if __name__ == "__main__":
   ```
 - The datasets are provided in JSON format for ease of integration with the `Data` class.
 
-## Citation
-If you use these datasets or the accompanying code in your research, please cite our paper as follows:
-
-```
-@article{mostajabdaveh2022branch,
-  title={A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution},
-  author={Mostajabdaveh, Mahdi and Salman, Sibel and Gutjahr, Walter},
-  journal={Available at SSRN 4236302},
-  year={2022}
-}
-```
 
 
